@@ -11,6 +11,8 @@ given to a person or animal to prevent them from getting the disease that the vi
   often one that causes disease.
 - vaccine
   - virus
-    - organic
+    - organic adjective(OF LIVING THINGS)
+    - organic adjective(OF FOOD PRODUCTION)
   - bacterium
-    - organism
+    - organism noun[C] a single living plant, animal, virus, etc.
+    > ***organism***: **Amoebae** and **bacteria** are single-**celled** organisms.
