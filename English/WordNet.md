@@ -16,3 +16,22 @@ given to a person or animal to prevent them from getting the disease that the vi
   - bacterium
     - organism noun[C] a single living plant, animal, virus, etc.
     > ***organism***: **Amoebae** and **bacteria** are single-**celled** organisms.
+
+
+## Animal
+**Anaconda**  
+> a large South American **snake** that _curls_ around a live animal and _crushes_ it to kill it for food.  
+> 
+
+**Python**  
+> a very large **snake** that kills animals for food by _wrapping_ itselt around them and _crushing_ them.
+> 
+
+> **crash**
+>> 
+
+
+> **crush**
+>> *verb(PRESS)*
+>> - to press something very hard so that it is broken or its shape is destroyed
+>> - to press paper or cloth so that it becomes _full of folds_ and is no longer _flat_
