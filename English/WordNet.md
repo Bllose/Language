@@ -35,3 +35,28 @@ given to a person or animal to prevent them from getting the disease that the vi
 >> *verb(PRESS)*
 >> - to press something very hard so that it is broken or its shape is destroyed
 >> - to press paper or cloth so that it becomes _full of folds_ and is no longer _flat_
+
+
+# Human
+## Life
+**attach**
+> _verb(CONNECT)_  
+>> to **fasten**, join, or connect something  
+>> 
+> _verb(COMPUTING)_
+>> to join a file such as a document, picture, or computer program, to an email  
+>> 
+**attachment**
+> _noun(PART)_  
+>> an extra piece of equipment that can be added to a machine  
+>> 
+> _noun(COMPUTING)_  
+>> a computer file that is sent together with an email message  
+>> 
+**touch**
+> _verb(PUT HAND ON)_  
+> _verb(BE CLOSE TOGETHER)_  
+> _verb(HARM/DAMAGE)_  
+> 
+**contact**  
+**attack**
