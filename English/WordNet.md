@@ -33,6 +33,8 @@ given to a person or animal to prevent them from getting the disease that the vi
 
 > **crush**
 >> *verb(PRESS)*
+>> 
+
 >> - to press something very hard so that it is broken or its shape is destroyed
 >> - to press paper or cloth so that it becomes _full of folds_ and is no longer _flat_
 
@@ -60,3 +62,13 @@ given to a person or animal to prevent them from getting the disease that the vi
 > 
 **contact**  
 **attack**
+
+
+# Nature
+**Thunderstorms spew out gamme rays - these scientists want to know why**  
+> Researchers in Japan are enlisting an army of citizens to explore how storms on Earth create _extreme bursts_ of _radiation_.  
+> 
+
+
+
+
