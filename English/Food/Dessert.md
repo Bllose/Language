@@ -12,6 +12,15 @@ with a _creamy_ layer between them, which can have many different colours and fl
 the _thick_, _yellowish-white_ liquid that forms on the top of milk.  
 ![Cream](https://dictionary.cambridge.org/images/thumb/cream_noun_002_09065.jpg?version=5.0.153)
 
+**thick**  
+> _adjective_ (NOT FLOWING)  
+>> ( of a liquid ) not flowing easily  
+>> 
+> _adjective_ (CLOSE TOGETHER)  
+>> growing close together and in large amounts  
+>> difficult to see through  
+>> e.g.  
+>>   thick, dark hair
 
 ## almond
 > /ˈɑː.mənd/  
