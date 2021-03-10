@@ -39,3 +39,19 @@ _noun_ (SMALL AMOUNT)
 used in expressions describing how small an amount or period of time is.  
 > e.g.  
 > The interview was over in a matter of minutes.
+
+# Manner  
+_noun_ (WAY)  
+the way in which something is done.  
+> e.g.  
+> It was the manner of her death that _stuck_ the public's mind.  
+> 
+---  
+_noun_ (BEHAVIOUR)  
+the usual way in which you behave towards other people, or the way you behave on a particular occasion.  
+> e.g.  
+> As soon as he realized that we weren't going to buy anything, his whole manner changed.  
+> 
+> **manners**  
+> _noun_ (POLITE BEHAVIOUR)  
+> polite ways of treating other people and behaving in public.
