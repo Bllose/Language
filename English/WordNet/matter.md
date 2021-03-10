@@ -54,4 +54,8 @@ the usual way in which you behave towards other people, or the way you behave on
 > 
 > **manners**  
 > _noun_ (POLITE BEHAVIOUR)  
-> polite ways of treating other people and behaving in public.
+> polite ways of treating other people and behaving in public.  
+>> e.g.  
+>> He needs to be taught some manners.  
+>> It's bad manners to eat with your mouth open.  
+>> It's considered good manners in some societies to leave a little food on your plate. 
