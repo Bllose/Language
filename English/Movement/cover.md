@@ -12,3 +12,15 @@ to deal with or direct attention to something.
 > 
 ---  
 _verb_ (REPORT)  
+to report the news about a particular important event.  
+> e.g.  
+> She's covering the American election for BBC television.  
+> 
+---  
+_verb_ (PROTECT)  
+to protect someone against loss, damage, accident, or having something stolen, by having insurance.  
+
+*cover yourself*  
+to do something to protect yourself from blame or criticism in the future.  
+> e.g.  
+> I kept copies of my expense receipts, just to cover myself.
