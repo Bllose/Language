@@ -19,5 +19,27 @@ otherwise, the Python interpreter will either raise an exception or execute code
 Python may not always be able to identify accidental from deliberate indentation. 
 Check your indentation is correct before running each example. 
 Make sure to indent all statement blocks equally. 
-**Note the sample files use spaces, not tabs.**  
+**Note the sample files use spaces, not tabs.**    
+> **Indentation**  
+> _noun_(SPACE)  
+> a space left at the edge of a line of writing, or the process of leaving such a space.  
+> _noun_(HOLE)  
+> a hole or marker on the surface of something.  
+> e.g.  
+>> The heels of her shoes had left indentations in the mud.  
+>> heel 鞋跟;  mud 泥地  
+>>   
+  
+> **indicate**  
+> _verb_(SHOW)  
+> to show, point ,or make clear in another way  
+>   
 
+> **brace**  
+> _noun_(SUPPORT)  
+> something that is used to support or connect things, or to make something stronger.  
+> e.g.  
+>> He was recently fitted with a brace for his bad back.  
+>  ---  
+> a set of connected wires that is attached to a person's teeth in order to make them straight.  
+> ![teeth barce](https://dictionary.cambridge.org/images/thumb/hexago_noun_002_17679.jpg?version=5.0.153)
