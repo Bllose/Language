@@ -42,4 +42,4 @@ Make sure to indent all statement blocks equally.
 >> He was recently fitted with a brace for his bad back.  
 >  ---  
 > a set of connected wires that is attached to a person's teeth in order to make them straight.  
-> ![teeth barce](https://dictionary.cambridge.org/images/thumb/hexago_noun_002_17679.jpg?version=5.0.153)
+> ![teeth barce](https://dictionary.cambridge.org/images/thumb/brace_noun_003_00248.jpg?version=5.0.155)
