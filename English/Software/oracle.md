@@ -42,4 +42,11 @@ Make sure to indent all statement blocks equally.
 >> He was recently fitted with a brace for his bad back.  
 >  ---  
 > a set of connected wires that is attached to a person's teeth in order to make them straight.  
-> ![teeth barce](https://dictionary.cambridge.org/images/thumb/brace_noun_003_00248.jpg?version=5.0.155)
+> ![teeth barce](https://dictionary.cambridge.org/images/thumb/brace_noun_003_00248.jpg?version=5.0.155)  
+> 
+
+> **indent**  
+> _verb_\[T] (SPACE)  
+> to make a space at the edge or on the surface of something.  
+> e.g.  
+>> Each new paragraph should be indented about two centimetres from the margin.
