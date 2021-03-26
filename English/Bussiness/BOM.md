@@ -35,4 +35,9 @@ usually use:
 ---  
 
 _verb_ (REQUEST PAYMENT)  
-to give or send someone a bill asking for money that they owe for a product or service: e.g. Please bill me for any expensed you incur.
+to give or send someone a bill asking for money that they owe for a product or service: e.g. Please bill me for any expensed you incur.  
+
+---  
+
+_verb_ (ADVERTISE)  
+to adverties something with a particular description; to describe someone in a particular way in order to advertise them or make them known.
