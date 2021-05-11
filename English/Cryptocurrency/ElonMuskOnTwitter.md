@@ -16,6 +16,6 @@ SpaceX launching satellite Doge-1 to the moon next year
 
 To the mooooonnn!!  
 > **satellite**  
-> a device sent up into space to travel around the earth, used for collecting information or communicating by radio, television, etc.
+> a device sent up into space to travel around the earth, used for collecting information or communicating by radio, television, etc.  
 > **meme**  
 > an ideal, image, video etc. that is spread very quickly on the internet.
