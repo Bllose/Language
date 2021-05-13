@@ -7,9 +7,16 @@ Cryptocurrency is a good idea on many levels and we believe it has a promising f
 Tesla will not be selling any Bitcoin and we intend to use it for transactions as soon as mining transitions to more sustainable energy. We are also looking at other cryptocurrencies that use <1% of Bitcoin's energy/transaction.  
 
 > **suspend**  
-> 
+> _verb_ (STOP)  
+> to stop something from being active, either temporarily or permanently.
+>> **permanently** _adverb_ always and for ever.
 > 
 > **fossil**  
+> _noun_ \[C] (IN ROCK)  
+> the shape of a bone, a shell, or a plant or animal that has been preserved in rock for a very long period.  
+>> **preserve**  
+>> _verb_ \[T]  
+>> to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed.
 > 
 > **fuel**  
 > 
