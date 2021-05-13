@@ -41,8 +41,12 @@ Tesla will not be selling any Bitcoin and we intend to use it for transactions a
 >> _transport_
 > 
 > **transition**  
+> noun \[C or U]  
+> a change of one form or type to another, or the process by which this happens.
 > 
 > **sustainable**
+> adjective  
+> able to continue over a period of time.  
 >    
     
   
