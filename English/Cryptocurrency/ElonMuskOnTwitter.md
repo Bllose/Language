@@ -16,19 +16,29 @@ Tesla will not be selling any Bitcoin and we intend to use it for transactions a
 > the shape of a bone, a shell, or a plant or animal that has been preserved in rock for a very long period.  
 >> **preserve**  
 >> _verb_ \[T]  
->> to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed.
+>> to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed.  
+>> **decay**  
+>> _verb_ \[T]  
+>> to become gradually damaged, worse, or less; to cause something to do this.
 > 
 > **fuel**  
+> _noun_  
+> a substance that is used to provide heat or power, using by being burned.
 > 
 > **mining**  
-> 
-> **coal**  
+> _noun_ \[U]  
+> the industry or activity of removing substances such as coal or metal from the ground by digging.
 > 
 > **emission**  
+> _noun_ \[U]  
+> the act of sending out gas, heat, light, etc.  
+>> _mission_ _noun_ (JOB)
 > 
-> **promising**
-> 
-> **transaction**
+> **transaction**  
+> _noun_ \[C or U]  
+> an occasion when someone buys or sells something, or when money is exchanged or the activity of buying or selling something.  
+>> _exchange_, _translate_  
+>> _transport_
 > 
 > **transition**  
 > 
