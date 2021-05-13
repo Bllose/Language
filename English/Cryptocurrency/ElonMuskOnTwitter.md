@@ -43,7 +43,22 @@ Tesla will not be selling any Bitcoin and we intend to use it for transactions a
 > **transition**  
 > 
 > **sustainable**
-> 
+>    
+    
+  
+Bitcoin electricity consumption, TWh(annualised)  
+Upper bound consumption  
+Estimated consumption  
+Lower bound consumption
+> **consumption**  
+> _noun_ \[U] (USE) 
+> the amount used or eaten  
+> **estimated**  
+> adjective  
+> roughly calculated or approximate.   
+> **bound**  
+> adjective (CERTAIN)  
+> certain or extremely likely to happen.
 
 
 # 20210511 - CN
