@@ -1,4 +1,34 @@
 
+# 20210513 - CN  
+Tesla has suspended vehicle purchases using Bitcoin. We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.  
+
+Cryptocurrency is a good idea on many levels and we believe it has a promising future, but this cannot come at great cost to the environment.  
+
+Tesla will not be selling any Bitcoin and we intend to use it for transactions as soon as mining transitions to more sustainable energy. We are also looking at other cryptocurrencies that use <1% of Bitcoin's energy/transaction.  
+
+> **suspend**  
+> 
+> 
+> **fossil**  
+> 
+> **fuel**  
+> 
+> **mining**  
+> 
+> **coal**  
+> 
+> **emission**  
+> 
+> **promising**
+> 
+> **transaction**
+> 
+> **transition**  
+> 
+> **sustainable**
+> 
+
+
 # 20210511 - CN
 Thanks again to @nbcsnl cast, writers & crew! Honor & pleasure to do the show with you.  
 > cast  
