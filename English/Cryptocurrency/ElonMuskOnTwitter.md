@@ -10,7 +10,8 @@ DON'T PANIC!
 
 
 Working with Doge devs to imporve system transaction efficiency. Potentially promising.
-
+> **Potentially**   possibly
+> 
 
 To be clear, I strongly believe in crypto, but it can't drive a massive increase in fossil fuel use, especially coal  
 
