@@ -1,4 +1,8 @@
 
+# 20210514 - CN  
+Working with Doge devs to imporve system transaction efficiency. Potentially promising.
+
+
 # 20210513 - CN  
 Tesla has suspended vehicle purchases using Bitcoin. We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.  
 
