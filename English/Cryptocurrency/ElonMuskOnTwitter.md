@@ -3,6 +3,9 @@
 Working with Doge devs to imporve system transaction efficiency. Potentially promising.
 
 
+To be clear, I strongly believe in crypto, but it can't drive a massive increase in fossil fuel use, especially coal  
+
+
 # 20210513 - CN  
 Tesla has suspended vehicle purchases using Bitcoin. We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.  
 
