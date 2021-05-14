@@ -1,5 +1,14 @@
 
-# 20210514 - CN  
+# 20210514 - CN   
+DON'T PANIC!  
+> **panic**  
+> _noun_ \[C]  
+> a sudden strong feeling of fear that prevents reasonable thought and action.  
+> **prevent**  
+> _verb_ \[T]  
+> to stop something from happening or someone from doing something.
+
+
 Working with Doge devs to imporve system transaction efficiency. Potentially promising.
 
 
