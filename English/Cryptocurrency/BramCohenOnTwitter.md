@@ -2,7 +2,11 @@
 For some odd reason the 'Chia burns out hard drives!' is getting repeated as the fashionable fud. This is odd, because for the most part it's just plain wrong (thread)   
 > **burn out**  
 > (BREAK)  
-> If something such as a motor burns out, it stops working because of damage from heat.
+> If something such as a motor burns out, it stops working because of damage from heat.  
+> **FUD**  
+> FUD is a disinformation strategy used by marketing and sales professionals that stands for Fear, Uncertainty, and Doubt. It's commonly used in the sales, marketing, polling, and public ralations fields.  
+> FUD is used to influence consumer perception of a competitor's product by appealing to fear.  
+> Professionals using the FUD strategy in campaigns will share negative and false information about a competitor, their service, or their products. They will spread questionable information about competition with the hopes that consumers will find their product more appealing. This strategy is commonly used in scenarios when a company's product is inferior to competition.
 
 If you plot with a plain old HD or an enterprise-class SSD then your drive will survive no problem. Plotting on hard drives, including the one which you'll probably leave your plot on, works fine. It's a bit slower and requires more head room, but works fine.  
 
