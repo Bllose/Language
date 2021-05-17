@@ -2,7 +2,7 @@
 For some odd reason the 'Chia burns out hard drives!' is getting repeated as the fashionable fud. This is odd, because for the most part it's just plain wrong (thread)   
 > **burn out**  
 > (BREAK)  
-> 
+> If something such as a motor burns out, it stops working because of damage from heat.
 
 If you plot with a plain old HD or an enterprise-class SSD then your drive will survive no problem. Plotting on hard drives, including the one which you'll probably leave your plot on, works fine. It's a bit slower and requires more head room, but works fine.  
 
