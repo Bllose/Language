@@ -1,3 +1,9 @@
+# 20200517 - CN  
+For some odd reason the 'Chia burns out hard drives!' is getting repeated as the fashionable fud. This is odd, because for the most part it's just plain wrong (thread)  
+
+If you plot with a plain old HD or an enterprise-class SSD then your drive will survive no problem. Plotting on hard drives, including the one which you'll probably leave your plot on, works fine. It's a bit slower and requires more head room, but works fine.  
+
+We've gone to great pains and put a lot of technical wizardry into getting plotting even on HDs to work completely acceptably. The amount of head room it needs isn't much more than one plot, and the time it takes isn't much more than double.
 
 # 20200507 - CN  
 The benefit of this is that it's a completely general system built on layer 2. Sorry for the need to replot, we got transactions out as soon as we could and that was higher priority than pooling protocol, which we're now getting out as quickly as possible.  
