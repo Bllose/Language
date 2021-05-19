@@ -1,3 +1,14 @@
+# 20210518 - CN  
+_@joergstb_  
+Unexpectedly there was an opportunity for a brief informal catchup between _@elonmusk_ and myself at _#gigafactory_ this afternoon. A brief wrap up of the progress in an excellent mood. Not having been on site for months I was amazed by the current status. Safe ongoing journey, Elon.  
+
+_@elonmusk_ reply to _@joergstb_  
+Great progress so far! Thank you for the support from Brandenburg. I would also like to express appreciation for the permit authorities, as I know this is a large and complex project.  
+When all the finishing touches are done, I hope it will be considered a jewel of Brandenburg!    
+> **Brandenburg** 勃兰登堡（德国城市）   
+> 
+> 
+
 
 # 20210514 - CN   
 DON'T PANIC!  
