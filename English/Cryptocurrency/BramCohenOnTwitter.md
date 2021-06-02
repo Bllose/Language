@@ -1,4 +1,23 @@
-# 20200517 - CN  
+# 20210602 - CN
+We're going to have a session on Chia Pools for Pool Operators on Jun 2 at 9am PST at ...  
+> **Operator**  
+> \[C] (PERSON OR BUSINESS)  
+> someone whose job is to use and control a machine or vehicle  
+> a company that does a particular type of business.  
+> **Jun.**  
+> June, the sixth month of the year, after May and before July.
+
+# 20210601 - CN  
+People are asking me Why do you need a pre-farm? and Why don't you have pools working already? The answers are Because it's been less than a month before we suddenly needed them ASAP and to pay for the engineers who are building it.  
+
+I'd like to emphasize that we aren't selling any tokens, have raised money under normal investment terms, and chia is not a security. My point is that some community members are being obnoxiously entitled and should knock it off.  
+**emphasize**  
+> _verb_ \[T]  
+> to show that something is very important or worth giving attention to.  
+
+**investment**  
+
+# 20210517 - CN  
 For some odd reason the 'Chia burns out hard drives!' is getting repeated as the fashionable fud. This is odd, because for the most part it's just plain wrong (thread)   
 > **burn out**  
 > (BREAK)  
@@ -12,7 +31,7 @@ If you plot with a plain old HD or an enterprise-class SSD then your drive will 
 
 We've gone to great pains and put a lot of technical wizardry into getting plotting even on HDs to work completely acceptably. The amount of head room it needs isn't much more than one plot, and the time it takes isn't much more than double.
 
-# 20200507 - CN  
+# 20210507 - CN  
 The benefit of this is that it's a completely general system built on layer 2. Sorry for the need to replot, we got transactions out as soon as we could and that was higher priority than pooling protocol, which we're now getting out as quickly as possible.  
 > **priority**  
 > something that is very important and must be dealt with before other things.
