@@ -20,4 +20,7 @@ to suffer or experience, especially damage or loss.
 > PS: She sustained multiple injuries in the accident.  
 
 \[T] (SUPPORT) to support emotionally  
-> PS 
+> PS: The love of my family and friends sustained my through my ordeal.  
+
+# maintain _verb_  
+\[T] (CONTINUE TO HAVE)  
