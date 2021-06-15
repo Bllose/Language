@@ -24,3 +24,6 @@ to suffer or experience, especially damage or loss.
 
 # maintain _verb_  
 \[T] (CONTINUE TO HAVE)  
+to continue to have; to keep in existence, or not allow to become less.  
+> PS: The army has been brought in to maintain order in the region.  
+> We have standards to maintain.
