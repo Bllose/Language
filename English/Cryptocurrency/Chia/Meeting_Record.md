@@ -10,6 +10,6 @@ Mariano S. : Yes. Because it's the singleton id or the launcher id they're inclu
 Bram       ：It's not really, well the pool can't stop someone from ___pointing___(?) at the pool but the pool could not give them the rewards.  
 
 __38:15__  
-Gene Hoffma : Can a pool do a drug pull for the payout interval right, if the pair introvert is three days? (Can a pool scam farmers)   
+Gene Hoffma : Can a pool do a drug pool for the payout interval right, if the pair introvert is three days? (Can a pool scam farmers)   
 > **scam** _noun_ /skæm/  
 > An illegal plan to making money, especially one that involves tricking people
