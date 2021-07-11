@@ -1,7 +1,7 @@
 # 2021-06-16 Plotting speed and security in Chia  
 [Plotting speed and security in Chia](https://youtube.com/watch?v=YREMKqXqRdE)  
 __14:20__  
-... and hopfully we'll walk you through some math that we've went through just in kind of how we thin about this
+... and hopfully we'll walk you through some math that we've went through just in kind of how we think about this
 
 
 # 2021-06-03 Chia Pools for Pool Operators  
