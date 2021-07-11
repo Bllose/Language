@@ -1,6 +1,6 @@
 # 2021-06-16 Plotting speed and security in Chia  
 [Plotting speed and security in Chia](https://youtube.com/watch?v=YREMKqXqRdE)  
-__14:20__  
+__14:12__  
 ... and hopfully we'll walk you through some math that we've went through just in kind of how we think about this and Gene mentioned you know how we chose k equals 32 as the minimum size for the network had to do with some forward-looking projections on what we think people could achieve at what cost at what system utilization ...
 
 
